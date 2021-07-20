@@ -4,4 +4,4 @@
 
 ## OOP Design
 
-https://lucid.app/lucidchart/invitations/accept/inv_732e983b-858f-4f8e-9f8a-1727a3f2fe28
+<img src="https://raw.githubusercontent.com/Bala534/Galaga/main/Oop%20Design.jpeg" />
