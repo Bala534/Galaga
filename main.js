@@ -6,6 +6,11 @@ class Start{
     game(){
         var obj = new Main();
         obj.movement();
+
+        var games = new sgame();
+        games.start();
     }}
-var object = new Start();
-object.game();
+
+
+var obj = new Start();
+obj.game();
